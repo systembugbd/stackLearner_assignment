@@ -12,8 +12,6 @@ class queueUsingLinkList {
           this.head = null;
           this.tail = null
           this.size = 0;
-
-
      }
 
      enQueueStack( data ) {
@@ -27,7 +25,6 @@ class queueUsingLinkList {
           node.next = this.head;
 
           this.head = node;
-
      }
 
      dQueueStack() {
