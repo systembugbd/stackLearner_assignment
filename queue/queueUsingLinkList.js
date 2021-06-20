@@ -77,7 +77,7 @@ const ql = new queueUsingLinkList()
 
 ql.enQueueStack( 'Shaheb' )
 ql.enQueueStack( 'Ali' )
-ql.enQueueStack( 'duplicate' )
+ql.enQueueStack( 'Fakibaz' )
 ql.enQueueStack( "programmer" )
 
 ql.dQueueStack()

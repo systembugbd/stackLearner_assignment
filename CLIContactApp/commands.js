@@ -37,14 +37,6 @@ program
   .version("1.0.0")
   .description("Cli Contact app with fully CRUD facilities");
 
-// program
-//      .command( 'add <firstname> <lastname> <email> <phone>' )
-//      .alias( 'a' )
-//      .description( 'Add a Contact' )
-//      .action( ( firstname, lastname, email, phone ) => {
-//           addContact( {firstname, lastname, email, phone})
-//      } )
-
 
 //add Contact to Mongodb
 program
